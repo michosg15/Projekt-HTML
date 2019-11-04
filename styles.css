@@ -197,7 +197,6 @@ header {
   .offer{
     grid-template-columns: repeat(1, minmax(200px, 1fr));
   }
-  .longtext{font-size:16px;}
 
   .ustext{font-size:16px;}
 }
