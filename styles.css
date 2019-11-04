@@ -193,6 +193,8 @@ header {
     font-size:18px;
     min-height: 350px;
   }
+    #contact{
+        min-height:350px;}
 }
 
 @media (max-width: 500px) {
