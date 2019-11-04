@@ -172,13 +172,11 @@ header {
   .offer{
     grid-template-columns: repeat(2, minmax(200px, 1fr));
   }
-
+  .itm{order:0;}
   .longtext{
-    font-size:18px;
+    font-size:15px;
     height: 350px;
   }
-
-  .itm{order:0;}
 
 }
 @media (max-width: 750px) {
@@ -189,12 +187,15 @@ header {
     padding-bottom: 10px;
     text-align:center;
   }
+<<<<<<< Updated upstream
   .longtext{
     font-size:18px;
     min-height: 350px;
   }
     #us{
         min-height:350px;}
+=======
+>>>>>>> Stashed changes
 }
 
 @media (max-width: 500px) {
