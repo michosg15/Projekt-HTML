@@ -182,20 +182,12 @@ header {
 @media (max-width: 750px) {
   .us{
     grid-template-columns: repeat(1, minmax(200px, 1fr));
+    height: auto;
   }
   .us p{
     padding-bottom: 10px;
     text-align:center;
   }
-<<<<<<< Updated upstream
-  .longtext{
-    font-size:18px;
-    min-height: 350px;
-  }
-    #us{
-        min-height:350px;}
-=======
->>>>>>> Stashed changes
 }
 
 @media (max-width: 500px) {
