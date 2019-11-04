@@ -172,11 +172,13 @@ header {
   .offer{
     grid-template-columns: repeat(2, minmax(200px, 1fr));
   }
-  .itm{order:0;}
+
   .longtext{
-    font-size:15px;
+    font-size:18px;
     height: 350px;
   }
+
+  .itm{order:0;}
 
 }
 @media (max-width: 750px) {
@@ -186,6 +188,10 @@ header {
   .us p{
     padding-bottom: 10px;
     text-align:center;
+  }
+  .longtext{
+    font-size:18px;
+    height: 350px;
   }
 }
 
