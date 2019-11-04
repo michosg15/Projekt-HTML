@@ -191,7 +191,7 @@ header {
   }
   .longtext{
     font-size:18px;
-    height: 350px;
+    min-height: 350px;
   }
 }
 
