@@ -175,7 +175,7 @@ header {
   .itm{order:0;}
   .longtext{
     font-size:15px;
-    max-height: 400px;
+    height: 350px;
   }
 
 }
